@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Traveller-2909
 - 👀 I’m interested in fish growth and niche modelling, ecosystem modelling and stable isotope modelling
 - 🌱 I’m currently learning to calculate individual and population-level istopic niche metrics using variance component analyses on three-dimensional isotope datasets
-- 💞️ I’m looking to collaborate on individual and population-level specialization analysis in d- and p-space R
+- 💞️ I’m looking to collaborate on individual and population-level specialization analysis in d- and p-space using R, JAGS and Stan
 - 📫 How to reach me: timo.rittweg@igb-berlin.de
 
 <!---
